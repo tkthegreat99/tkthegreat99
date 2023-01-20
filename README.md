@@ -26,3 +26,7 @@ You can see my portfolio in my notion!<br><br>
 <img src="https://img.shields.io/badge/Unreal-0E1128?style=flat-square&logo=unrealengine&logoColor=white"/>
 
 
+<br>
+<br>
+<img src="http://mazassumnida.wtf/api/generate_badge?boj=yhmland"/>
+<img src="https://github-readme-stats.vercel.app/api?username=tkthegreat99&hide={hidecontents}"/>
