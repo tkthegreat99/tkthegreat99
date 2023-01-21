@@ -5,7 +5,7 @@
 Welcome to TK 's github.<br>
 Future **game programmer**<br>
 You can see my portfolio in my notion!<br><br>
-<a href="https://taegangyun.notion.site/Taekang-Yun-ffe3392cfbd54aadb366e31bd482e634"> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a> 
+<a href="www.taeriver99.com"> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a> 
 
 ### ⚒️ Tech Stack
 
