@@ -3,7 +3,6 @@
 ### 👋Hi there! 
 
 Welcome to TK 's github.<br>
-Future **game programmer**<br>
 You can see my portfolio in my notion!<br><br>
 <a href="https://www.taeriver99.com"> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a> 
 
