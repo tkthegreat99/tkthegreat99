@@ -24,4 +24,5 @@ You can see my portfolio in my notion!<br><br>
 
 <img src="https://img.shields.io/badge/Unreal-0E1128?style=flat-square&logo=unrealengine&logoColor=white"/>
 
+![tkthegreat99's github stats](https://github-readme-stats.vercel.app/api?username=tkthegreat99&show_icons=true)
 
