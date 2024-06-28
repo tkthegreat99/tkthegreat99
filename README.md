@@ -27,7 +27,8 @@ You can see my portfolio in my notion!<br><br>
 2019.03 **프로그래밍 동아리 인터페이스 32기** <br>
 2023.03 **게임제작 동아리 판도라큐브** <br>
 2023.03 **알고리즘 동아리 SAL 1기** <br>
-2023.11 **텀블벅 Tumblebug <Project:Debug> 게임 프로젝트 후원 모금 100% 추가 달성** <br>
+2024.04 **STEAM [FLOOR 10] , [PROJECT:DEBUG]** 게임 출시
+2024.06 **STOVE [FLOOR 10] , [PROJECT:DEBUG]** 게임 출시
 
 
 [![Solved.ac
