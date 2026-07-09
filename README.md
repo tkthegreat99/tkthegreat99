@@ -4,9 +4,9 @@
 
 🚀 Career
 - NowCoding Labs | Curriculum Engineer
-  - Sep 2022 – Dec 2022 (4 months)
+  - Sep 2022 – Dec 2022
 - GiantStep (GX Development, Space Immersive Unit) | Unreal Client Programmer
-  - Jul 2023 – Aug 2023 (2 months)
+  - Jul 2023 – Aug 2023
 - Kong Studios Korea (Maze) | Software Engineer (Unity Client Programmer)
   - Jan 2025 – Present
 
