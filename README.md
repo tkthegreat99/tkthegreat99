@@ -3,9 +3,9 @@
 - Sejong University | B.S. in Computer Science
 
 🚀 Career
-- NowCoding Labs | Curriculum Engineer
+- NowCoding Labs | Curriculum Engineer (Intern)
   - Sep 2022 – Dec 2022
-- GiantStep (GX Development, Space Immersive Unit) | Unreal Client Programmer
+- GiantStep (GX Development, Space Immersive Unit) | Unreal Client Programmer (Intern)
   - Jul 2023 – Aug 2023
 - Kong Studios Korea (Maze) | Software Engineer (Unity Client Programmer)
   - Jan 2025 – Present
