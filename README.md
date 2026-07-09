@@ -1,8 +1,18 @@
+🎓 Education
+- Hansung Science High School | Graduated
+- Sejong University | B.S. in Computer Science
 
+🚀 Career
+- NowCoding Labs | Curriculum Engineer (Intern) Sep 2022 – Dec 2022 (4 months)
+- GiantStep (GX Development, Space Immersive Unit) | Unreal Client Programmer (Intern) Jul 2023 – Aug 2023 (2 months)
+- Kong Studios Korea (Maze) | Software Engineer (Unity Client Programmer) Jan 2025 – Present
 
-### ⚒️ Tech Stack
+🎮 Launches
+- PROJECT : DEBUG | Published on STEAM & Stove (Apr 2024)
+- FLOOR10 | Published on STEAM & Stove (Apr 2024)
 
-#### 👍used as the main
+🛠 Tech Stack
+- Languages & Engines: C#, Unity, C++, Unreal Engine
 
-<img src="https://img.shields.io/badge/Unreal-0E1128?style=flat-square&logo=unrealengine&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-999999?style=flat-square&logo=unity&logoColor=black"/> 
-<br>
+📬 Contact
+- Email: taegangyun@gmail.com
